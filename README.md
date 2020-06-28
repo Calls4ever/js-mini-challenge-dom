@@ -26,7 +26,7 @@ Figure out what you need to change to give Javascript access to the `h1#header` 
 
 **YOUR NOTES**
 ```
-
+done
 ```
 
 ## Deliverable 2
@@ -35,7 +35,7 @@ Now that you have access to the `h1#header` element, use Javascript to change th
 
 **YOUR NOTES**
 ```
-
+done
 ```
 
 ## Deliverable 3
@@ -57,7 +57,7 @@ Create a DOM element that looks like this for each player and append it to the `
 
 **YOUR NOTES**
 ```
-
+done
 ```
 
 ## Deliverable 4
@@ -68,5 +68,6 @@ Hint: You can use `querySelector` with [CSS Attribute Selectors](https://develop
 
 **YOUR NOTES**
 ```
+done
 
 ```
